@@ -1,0 +1,35 @@
+#main {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ background-color: var(--surface-color);
+    margin-inline: auto;
+    max-width: 1280px;
+}
+#main div {
+   width: 700px;
+}
+.profile{ 
+    display: flex;
+    gap: 20px;
+
+}
+.profile-info h1{
+    margin-bottom: 8px;
+}
+
+.info{
+    gap: 20px;
+    padding-block: 8px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.info li{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+header { background-color: var(--surface-color);}

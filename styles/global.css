@@ -36,7 +36,6 @@ a:hover{
 }
 
 .container {
-    padding-inline: 32px;
     margin-inline: auto;
     max-width: 1280px;
 }
