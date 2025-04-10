@@ -1,0 +1,18 @@
+.pictures {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1304px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 12px;
+ 
+}
+
+.pictures img {
+
+    justify-content: space-between;
+    padding: 12px;
+    max-width: 302px;
+    max-height: 302px;
+    
+}

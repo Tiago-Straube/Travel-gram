@@ -5,9 +5,10 @@
  background-color: var(--surface-color);
     margin-inline: auto;
     max-width: 1280px;
+   padding-block: 0px 20px;
 }
 #main div {
-   width: 700px;
+   max-width: 700px;
 }
 .profile{ 
     display: flex;
@@ -21,10 +22,9 @@
 .info{
     gap: 20px;
     padding-block: 8px;
-    width: 350px;
+    max-width: 350px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
 }
 .info li{
     display: flex;

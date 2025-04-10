@@ -10,7 +10,8 @@ nav ul{
    align-items: center;
    gap: 20px;
    padding-block: 8px;
-   width: 350px;
+   max-width: 350px;
+ 
 }
 
 nav ul li:last-child img{
