@@ -9,8 +9,12 @@
 .footer2 {
     display: flex;
     justify-content: space-between;
-    max-width: 297px;
+    max-width: 350px;
     align-items: center;
+
+}
+.footer2 a {
+padding: 8px;
 }
 
 
